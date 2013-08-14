@@ -17,5 +17,5 @@ This repo consists of basically two notebooks:
 
 ## License
 
-All code and content in this example is hereby placed in the public domain.
+All code and content in this repository is hereby placed in the public domain.
 
