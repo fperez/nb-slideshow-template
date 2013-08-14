@@ -17,5 +17,6 @@ This repo consists of basically two notebooks:
 
 ## License
 
-All code and content in this repository is hereby placed in the public domain.
+All content in this repository is released under the terms of the
+Simplified BSD license: http://opensource.org/licenses/BSD-3-Clause
 
