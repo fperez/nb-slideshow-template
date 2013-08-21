@@ -1,5 +1,8 @@
 # Using the IPython Notebook slideshow mode, an example template
 
+**NOTE** The tools here require IPython 1.0, they do *not* work with
+IPython 0.13.2.
+
 This repository contains the executable setup instructions (in the
 install-support notebook) as well as an example/template talk, for creating
 Notebooks that can be used as a slideshow.
